@@ -1,2 +1,3 @@
-# elite-racks-v6
-v6
+# Elite Rackz v3 restored
+
+Full homepage + products dropdown + Guarding/Repair Kits pages.
